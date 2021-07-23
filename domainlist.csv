@@ -1,23 +1,23 @@
 id,type,domain,enabled,date_added,date_modified,comment
-3,0,sdk.split.io,1,1620715247,1626206400,
-4,0,api.segment.io,1,1620715532,1626206401,
-5,0,c.evidon.com,1,1620715542,1626206401,
-6,0,c.go-mpulse.net,1,1620715550,1626206401,
-7,0,cdn.segment.com,1,1620715558,1626206401,
-8,0,dpm.demdex.net,1,1620715568,1626206401,
-9,0,mboxedge28.tt.omtrdc.net,1,1620715577,1626206401,
-10,0,mobile.pipe.aria.microsoft.com,1,1620715587,1626206401,
-11,0,s.go-mpulse.net,1,1620715595,1626206401,
-12,0,s7.addthis.com,1,1620715603,1626206401,
-14,0,tags.tiqcdn.com,1,1620715619,1626206401,
-15,0,traffic.megaphone.fm,1,1620715721,1626206401,
-20,0,config2.mparticle.com,1,1620716923,1626206401,
+3,0,sdk.split.io,1,1620715247,1626206400,""
+4,0,api.segment.io,1,1620715532,1626206401,""
+5,0,c.evidon.com,1,1620715542,1626206401,""
+6,0,c.go-mpulse.net,1,1620715550,1626206401,""
+7,0,cdn.segment.com,1,1620715558,1626206401,""
+8,0,dpm.demdex.net,1,1620715568,1626206401,""
+9,0,mboxedge28.tt.omtrdc.net,1,1620715577,1626206401,""
+10,0,mobile.pipe.aria.microsoft.com,1,1620715587,1626206401,""
+11,0,s.go-mpulse.net,1,1620715595,1626206401,""
+12,0,s7.addthis.com,1,1620715603,1626206401,""
+14,0,tags.tiqcdn.com,1,1620715619,1626206401,""
+15,0,traffic.megaphone.fm,1,1620715721,1626206401,""
+20,0,config2.mparticle.com,1,1620716923,1626206401,""
 22,0,s.youtube.com,1,1620717184,1626206401,"Added from Query Log"
 23,0,browser.pipe.aria.microsoft.com,1,1620717898,1626206401,"Added from Query Log"
-25,0,officeclient.microsoft.com,1,1620773877,1626206401,
+25,0,officeclient.microsoft.com,1,1620773877,1626206401,""
 26,0,nexus.officeapps.live.com,1,1620773901,1626206401,"Added from Query Log"
 27,0,nexusrules.officeapps.live.com,1,1620773927,1626206401,"Added from Query Log"
-28,0,nativesdks.mparticle.com,1,1620858839,1626206401,
+28,0,nativesdks.mparticle.com,1,1620858839,1626206401,""
 30,0,device-api.urbanairship.com,1,1620859264,1626206401,"Added from Query Log"
 31,0,remote-data.urbanairship.com,1,1620859285,1626206401,"Added from Query Log"
 33,0,elink.thedailybeast.com,1,1622482251,1626206401,"Added from Query Log"
@@ -210,12 +210,13 @@ id,type,domain,enabled,date_added,date_modified,comment
 222,0,connectivitycheck.gstatic.com,1,1625063787,1626206402,"Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
 223,0,connectivitycheck.android.com,1,1625063787,1626206402,"Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
 224,0,www.msftconnecttest.com,1,1625063787,1626206402,"Owned by Microsoft. Used by Windows systems to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
-226,1,sl,1,1625951521,1626206399,
+226,1,sl,1,1625951521,1626206399,""
 227,1,version.bind,1,1626047891,1626206399,"Added from Query Log"
 228,0,explore.cvent.com,1,1626907038,1626907038,"Added from Query Log"
 229,0,cvent.lookbookhq.com,1,1626907066,1626907066,"Added from Query Log"
 230,0,alb-cvent.lookbookhq.com,1,1626907686,1626907686,"Added from Query Log"
 232,3,(ads|captive|logs)\.roku\.com$,1,1626927421,1626927421,"Roku ads"
 233,0,therealreal.collect.igodigital.com,1,1626985939,1626985939,"Real Real"
-235,2,(\.|^)farmfreshtoyou\.com$,1,1627070629,1627070629,
+235,2,(\.|^)farmfreshtoyou\.com$,1,1627070629,1627070629,""
 236,0,sendgrid.net,1,1627071018,1627071018,"Farm Fresh email links"
+237,0,dougca.com,1,1627073676,1627073676,Test
