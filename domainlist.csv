@@ -20,7 +20,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 28,0,nativesdks.mparticle.com,1,1620858839,1626206401,""
 30,0,device-api.urbanairship.com,1,1620859264,1626206401,"Added from Query Log"
 31,0,remote-data.urbanairship.com,1,1620859285,1626206401,"Added from Query Log"
-33,0,elink.thedailybeast.com,1,1622482251,1626206401,"Added from Query Log"
 35,0,minecraftprod.rtep.msgamestudios.com,1,1623205710,1626206401,"Added from Query Log"
 36,0,0.client-channel.google.com,1,1625063787,1626206401,"In order for users on your network to access Google Drive and Google Docs editors this domain must be whitelisted - https://support.google.com/a/answer/2589954?hl=en  - qjz9zk"
 37,0,1drv.com,1,1625063787,1626206401,"It is actually a legitimate Microsoft owned domain and used as a short link for OneDrive documents. - qjz9zk"
@@ -219,4 +218,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 233,0,therealreal.collect.igodigital.com,1,1626985939,1626985939,"Real Real"
 235,2,(\.|^)farmfreshtoyou\.com$,1,1627070629,1627070629,""
 236,0,sendgrid.net,1,1627071018,1627071018,"Farm Fresh email links"
-240,0,1200mail.com,1,1627079795,1627079795,test
+242,0,ha-link.sailthru.com,1,1627080334,1627080334,"Daily Beast emails"
