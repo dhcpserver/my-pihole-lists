@@ -1,14 +1,14 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1620704432,1626907627,"Migrated from /etc/pihole/adlists.list",1627072995,78602,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1620704432,1626907627,"Migrated from /etc/pihole/adlists.list",1627072995,78602,0,2
 3,https://v.firebog.net/hosts/static/w3kbl.txt,0,1625064725,1626907960,https://firebog.net/about,"",903,0,2
-4,https://v.firebog.net/hosts/AdguardDNS.txt,1,1625251952,1626907627,https://firebog.net,1627072999,37166,0,1
+4,https://v.firebog.net/hosts/AdguardDNS.txt,1,1625251952,1626907627,https://firebog.net,1627188843,37274,0,1
 5,https://v.firebog.net/hosts/Admiral.txt,0,1625251965,1626907627,https://firebog.net,"",662,0,2
-6,https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt,1,1625975121,1626907627,"Dating sites off reddit",1627072999,14082,0,1
+6,https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt,1,1625975121,1626907627,"Dating sites off reddit",1627188843,14082,0,1
 7,https://v.firebog.net/hosts/Easyprivacy.txt,0,1626808135,1626907627,https://firebog.net,1626808369,11768,0,2
 8,https://v.firebog.net/hosts/Prigent-Ads.txt,0,1626808144,1626907627,https://firebog.net,1626808370,3670,0,2
 9,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,0,1626808168,1626907627,https://firebog.net,1626808370,1286,0,2
 10,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,0,1626808192,1626907989,https://firebog.net,1626808370,375,0,2
-11,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1626808237,1626907628,https://firebog.net,1627072997,56977,0,1
+11,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1626808237,1626907628,https://firebog.net,1627072997,56977,0,2
 12,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,0,1626808273,1626907627,https://firebog.net,1626808375,3548,0,2
-13,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1626810160,1626907628,https://github.com/lightswitch05/hosts,1627072999,382167,0,1
+13,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1626810160,1626907628,https://github.com/lightswitch05/hosts,1627188847,382184,0,1
 14,https://dbl.oisd.nl/,0,1626825401,1626907627,https://oisd.nl/downloads,1626882072,1152284,0,2
