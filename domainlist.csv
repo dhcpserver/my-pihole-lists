@@ -219,5 +219,3 @@ id,type,domain,enabled,date_added,date_modified,comment
 235,2,(\.|^)farmfreshtoyou\.com$,1,1627070629,1627070629,""
 236,0,sendgrid.net,1,1627071018,1627071018,"Farm Fresh email links"
 243,3,(ads|captive|cloudservices|log|images.sr|web).roku(.admeasurement)*.com$,1,1627150489,1627150489,"Roku filter"
-246,2,(\.|^)sailthru\.com$,1,1627355271,1627355271,"Daily Beast"
-247,2,(\.|^)thedailybeast\.com$,1,1627355546,1627355546,"Daily beast"
