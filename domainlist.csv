@@ -218,7 +218,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 233,0,therealreal.collect.igodigital.com,1,1626985939,1626985939,"Real Real"
 235,2,(\.|^)farmfreshtoyou\.com$,1,1627070629,1627070629,""
 236,0,sendgrid.net,1,1627071018,1627071018,"Farm Fresh email links"
-242,0,ha-link.sailthru.com,1,1627080334,1627080334,"Daily Beast emails"
 243,3,(ads|captive|cloudservices|log|images.sr|web).roku(.admeasurement)*.com$,1,1627150489,1627150489,"Roku filter"
 244,0,elink.thedailybeast.com,1,1627354064,1627354064,"Daily beast"
-245,0,cb.sailthru.com,1,1627354108,1627354108,"Daily beast"
+246,2,(\.|^)sailthru\.com$,1,1627355271,1627355271,"Daily Beast"
