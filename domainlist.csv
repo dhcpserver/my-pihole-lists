@@ -219,3 +219,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 235,2,(\.|^)farmfreshtoyou\.com$,1,1627070629,1627070629,""
 236,0,sendgrid.net,1,1627071018,1627071018,"Farm Fresh email links"
 243,3,(ads|captive|cloudservices|log|images.sr|web).roku(.admeasurement)*.com$,1,1627150489,1627150489,"Roku filter"
+248,1,click.oneplus.cn,1,1627366475,1627366475,"Web blocker test page"
