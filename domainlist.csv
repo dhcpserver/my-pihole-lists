@@ -220,3 +220,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 236,0,sendgrid.net,1,1627071018,1627071018,"Farm Fresh email links"
 243,3,(ads|captive|cloudservices|log|images.sr|web).roku(.admeasurement)*.com$,1,1627150489,1627150489,"Roku filter"
 248,1,click.oneplus.cn,1,1627366475,1627366475,"Web blocker test page"
+249,0,link.thehustle.co,1,1627507661,1627507661,"Added from Query Log"
