@@ -219,7 +219,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 235,2,(\.|^)farmfreshtoyou\.com$,1,1627070629,1627070629,""
 236,0,sendgrid.net,1,1627071018,1627071018,"Farm Fresh email links"
 243,3,(ads|captive|cloudservices|log|images.sr|web).roku(.admeasurement)*.com$,1,1627150489,1627150489,"Roku filter"
-248,1,click.oneplus.cn,1,1627366475,1627366475,"Web blocker test page"
+248,1,click.oneplus.cn,1,1627366475,1627872230,
 249,0,link.thehustle.co,1,1627507661,1627507661,"Added from Query Log"
 250,2,(\.|^)cb\.sailthru\.com$,1,1627507729,1627507729,"Daily Beast"
 251,1,freshmarketer.com,1,1627872036,1627872036,
@@ -227,3 +227,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 253,1,extmaps-api.yandex.net,1,1627872075,1627872075,
 254,1,logservice.hicloud.com,1,1627872098,1627872098,
 255,1,logservice1.hicloud.com,1,1627872110,1627872110,
+256,1,ais-s3-wideorion.s3-us-west-2.amazonaws.com,1,1627872160,1627872160,
+257,1,logbak.hicloud.com,1,1627872216,1627872216,
+259,1,samsung-com.112.2o7.net,1,1627872248,1627872248,
+260,1,analytics-api.samsunghealthcn.com,1,1627872261,1627872261,

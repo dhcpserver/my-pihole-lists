@@ -10,5 +10,5 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 10,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,0,1626808192,1626907989,https://firebog.net,1626808370,375,0,2
 11,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1626808237,1626907628,https://firebog.net,1627319671,56977,0,2
 12,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,0,1626808273,1626907627,https://firebog.net,1626808375,3548,0,2
-13,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1626810160,1626907628,https://github.com/lightswitch05/hosts,1627792805,383322,0,2
-14,https://dbl.oisd.nl/,1,1626825401,1627336215,https://oisd.nl/downloads,1627792808,927503,0,2
+13,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1626810160,1626907628,https://github.com/lightswitch05/hosts,1627872348,383497,0,1
+14,https://dbl.oisd.nl/,1,1626825401,1627336215,https://oisd.nl/downloads,1627872351,926988,0,1
