@@ -209,25 +209,24 @@ id,type,domain,enabled,date_added,date_modified,comment
 222,0,connectivitycheck.gstatic.com,1,1625063787,1626206402,"Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
 223,0,connectivitycheck.android.com,1,1625063787,1626206402,"Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
 224,0,www.msftconnecttest.com,1,1625063787,1626206402,"Owned by Microsoft. Used by Windows systems to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
-226,1,sl,1,1625951521,1626206399,""
-227,1,version.bind,1,1626047891,1626206399,"Added from Query Log"
+226,1,sl,1,1625951521,1627921319,"amplication troll"
+227,1,version.bind,1,1626047891,1627921322,"amplication troll"
 228,0,explore.cvent.com,1,1626907038,1626907038,"Added from Query Log"
 229,0,cvent.lookbookhq.com,1,1626907066,1626907066,"Added from Query Log"
 230,0,alb-cvent.lookbookhq.com,1,1626907686,1626907686,"Added from Query Log"
-232,3,(ads|captive|logs)\.roku\.com$,1,1626927421,1626927421,"Roku ads"
 233,0,therealreal.collect.igodigital.com,1,1626985939,1626985939,"Real Real"
 235,2,(\.|^)farmfreshtoyou\.com$,1,1627070629,1627070629,""
 236,0,sendgrid.net,1,1627071018,1627071018,"Farm Fresh email links"
 243,3,(ads|captive|cloudservices|log|images.sr|web).roku(.admeasurement)*.com$,1,1627150489,1627150489,"Roku filter"
-248,1,click.oneplus.cn,1,1627366475,1627872230,
+248,1,click.oneplus.cn,1,1627366475,1627921235,"adblock test page"
 249,0,link.thehustle.co,1,1627507661,1627507661,"Added from Query Log"
 250,2,(\.|^)cb\.sailthru\.com$,1,1627507729,1627507729,"Daily Beast"
-251,1,freshmarketer.com,1,1627872036,1627872036,
-252,1,w1.luckyorange.com,1,1627872056,1627872056,
-253,1,extmaps-api.yandex.net,1,1627872075,1627872075,
-254,1,logservice.hicloud.com,1,1627872098,1627872098,
-255,1,logservice1.hicloud.com,1,1627872110,1627872110,
-256,1,ais-s3-wideorion.s3-us-west-2.amazonaws.com,1,1627872160,1627872160,
-257,1,logbak.hicloud.com,1,1627872216,1627872216,
-259,1,samsung-com.112.2o7.net,1,1627872248,1627872248,
-260,1,analytics-api.samsunghealthcn.com,1,1627872261,1627872261,
+251,1,freshmarketer.com,1,1627872036,1627921239,"adblock test page"
+252,1,w1.luckyorange.com,1,1627872056,1627921243,"adblock test page"
+253,1,extmaps-api.yandex.net,1,1627872075,1627921247,"adblock test page"
+254,1,logservice.hicloud.com,1,1627872098,1627921253,"adblock test page"
+255,1,logservice1.hicloud.com,1,1627872110,1627921266,"adblock test page"
+256,1,ais-s3-wideorion.s3-us-west-2.amazonaws.com,1,1627872160,1627921283,"adblock test page"
+257,1,logbak.hicloud.com,1,1627872216,1627921286,"adblock test page"
+259,1,samsung-com.112.2o7.net,1,1627872248,1627921289,"adblock test page"
+260,1,analytics-api.samsunghealthcn.com,1,1627872261,1627921291,"adblock test page"
