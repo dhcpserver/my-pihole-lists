@@ -222,3 +222,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 248,1,click.oneplus.cn,1,1627366475,1627366475,"Web blocker test page"
 249,0,link.thehustle.co,1,1627507661,1627507661,"Added from Query Log"
 250,2,(\.|^)cb\.sailthru\.com$,1,1627507729,1627507729,"Daily Beast"
+251,1,freshmarketer.com,1,1627872036,1627872036,
+252,1,w1.luckyorange.com,1,1627872056,1627872056,
+253,1,extmaps-api.yandex.net,1,1627872075,1627872075,
+254,1,logservice.hicloud.com,1,1627872098,1627872098,
+255,1,logservice1.hicloud.com,1,1627872110,1627872110,
