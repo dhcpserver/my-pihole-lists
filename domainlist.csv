@@ -235,3 +235,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 264,1,analytics.facebook.com,1,1628059035,1628059217,"adblock test page"
 265,1,ads.facebook.com,1,1628059048,1628059218,"adblock test page"
 270,1,analytics.oneplus.cn,1,1628059120,1628059221,"adblock test page"
+274,2,(\.|^)tkqlhce\.com$,1,1628207145,1628207145,"Secret Flying jump link"
