@@ -226,7 +226,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 253,1,extmaps-api.yandex.net,1,1627872075,1628059194,"adblock test page"
 254,1,logservice.hicloud.com,1,1627872098,1628059196,"adblock test page"
 255,1,logservice1.hicloud.com,1,1627872110,1628059201,"adblock test page"
-256,1,ais-s3-wideorion.s3-us-west-2.amazonaws.com,1,1627872160,1627921283,"adblock test page"
+256,1,ais-s3-wideorion.s3-us-west-2.amazonaws.com,1,1627872160,1628208744,AIS
 257,1,logbak.hicloud.com,1,1627872216,1628059206,"adblock test page"
 259,1,samsung-com.112.2o7.net,1,1627872248,1628059208,"adblock test page"
 260,1,analytics-api.samsunghealthcn.com,1,1627872261,1628059211,"adblock test page"
