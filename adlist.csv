@@ -1,7 +1,7 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1620704432,1628011071,"Migrated from /etc/pihole/adlists.list",1627792802,84247,0,2
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1620704432,1628011071,"Migrated from /etc/pihole/adlists.list",1628422802,85386,0,1
 3,https://v.firebog.net/hosts/static/w3kbl.txt,0,1625064725,1628011071,https://firebog.net/about,"",903,0,2
-4,https://v.firebog.net/hosts/AdguardDNS.txt,1,1625251952,1628011071,https://firebog.net,1627792802,37652,0,2
+4,https://v.firebog.net/hosts/AdguardDNS.txt,1,1625251952,1628011071,https://firebog.net,1628422802,37812,0,1
 5,https://v.firebog.net/hosts/Admiral.txt,0,1625251965,1628011071,https://firebog.net,"",662,0,2
 6,https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt,0,1625975121,1628110826,"Dating sites off reddit",1627792802,14079,0,2
 7,https://v.firebog.net/hosts/Easyprivacy.txt,0,1626808135,1628011071,https://firebog.net,1626808369,11768,0,2
@@ -10,5 +10,5 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 10,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,0,1626808192,1628011071,https://firebog.net,1626808370,375,0,2
 11,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1626808237,1628011071,https://firebog.net,1627319671,56977,0,2
 12,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,0,1626808273,1628011071,https://firebog.net,1626808375,3548,0,2
-13,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1626810160,1628011071,https://github.com/lightswitch05/hosts,1627872348,383497,0,1
-14,https://dbl.oisd.nl/,1,1626825401,1628011071,https://oisd.nl/downloads,1627872351,926988,0,1
+13,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1626810160,1628011071,https://github.com/lightswitch05/hosts,1628422805,383336,0,1
+14,https://dbl.oisd.nl/,1,1626825401,1628011071,https://oisd.nl/downloads,1628422808,923590,0,1
