@@ -236,3 +236,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 265,1,ads.facebook.com,1,1628059048,1628059218,"adblock test page"
 270,1,analytics.oneplus.cn,1,1628059120,1628059221,"adblock test page"
 274,2,(\.|^)tkqlhce\.com$,1,1628207145,1628207145,"Secret Flying jump link"
+275,2,(\.|^)apple\.com$,1,1628606306,1628606306,Work
