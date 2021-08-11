@@ -218,7 +218,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 235,2,(\.|^)farmfreshtoyou\.com$,1,1627070629,1627070629,""
 236,0,sendgrid.net,1,1627071018,1627071018,"Farm Fresh email links"
 243,3,(ads|captive|cloudservices|log|images.sr|web).roku(.admeasurement)*.com$,1,1627150489,1627150489,"Roku filter"
-248,1,click.oneplus.cn,1,1627366475,1628059133,
+248,1,click.oneplus.cn,1,1627366475,1628697760,"Ad block test"
 249,0,link.thehustle.co,1,1627507661,1627507661,"Added from Query Log"
 250,2,(\.|^)cb\.sailthru\.com$,1,1627507729,1627507729,"Daily Beast"
 251,1,freshmarketer.com,1,1627872036,1627921239,"adblock test page"
