@@ -313,3 +313,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 368,1,version.bind,1,1629507208,1629507208,"Amplication probe"
 370,2,(\.|^)netrope\.com$,1,1629903196,1629903196,""
 371,0,dougca.com,1,1629915179,1629915179,test
+372,1,a.botnet.cc,1,1629919654,1629919654,Probe?
