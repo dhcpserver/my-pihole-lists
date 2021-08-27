@@ -315,3 +315,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 371,0,dougca.com,1,1629915179,1629915179,test
 372,1,a.botnet.cc,1,1629919654,1629919654,Probe?
 373,1,yts.mx,1,1629919815,1629919815,Warez
+374,1,browser.sentry-cdn.com,1,1630094958,1630094958,"ad blocker test"
