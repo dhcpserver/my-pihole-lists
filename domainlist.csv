@@ -317,3 +317,13 @@ id,type,domain,enabled,date_added,date_modified,comment
 373,1,yts.mx,1,1629919815,1629919815,Warez
 374,1,browser.sentry-cdn.com,1,1630094958,1630094958,"ad blocker test"
 375,1,freshmarketer.com,1,1630101119,1630101119,"blocker test"
+376,1,click.oneplus.cn,1,1630102286,1630102286,
+377,1,analytics.facebook.com,1,1630102286,1630102286,
+378,1,logservice1.hicloud.com,1,1630102286,1630102286,
+379,1,analytics.oneplus.cn,1,1630102286,1630102286,
+380,1,logbak.hicloud.com,1,1630102286,1630102286,
+381,1,analytics-api.samsunghealthcn.com,1,1630102286,1630102286,
+382,1,stats.wp.com,1,1630102286,1630102286,
+383,1,logservice.hicloud.com,1,1630102286,1630102286,
+384,1,extmaps-api.yandex.net,1,1630102286,1630102286,
+385,1,ads.facebook.com,1,1630102286,1630102286,
