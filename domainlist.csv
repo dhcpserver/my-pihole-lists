@@ -341,6 +341,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 397,1,data.mistat.xiaomi.com,1,1630195047,1630195047,
 398,1,data.mistat.intl.xiaomi.com,1,1630195047,1630195047,
 399,1,peacecorps.gov,1,1630369513,1630369513,"DNS attack probe"
-400,1,209-141-53-49.v6.tlsfingerprint.io,1,1630374288,1630374288,
-401,1,public1.114dns.com,1,1630374291,1630374291,
-402,1,www.dnssec-tools.org,1,1630374291,1630374291,
+400,1,209-141-53-49.v6.tlsfingerprint.io,1,1630374288,1630375219,"DNS attack probe"
+401,1,public1.114dns.com,1,1630374291,1630375221,"DNS attack probe"
+402,1,www.dnssec-tools.org,1,1630374291,1630375233,"DNS attack probe"
