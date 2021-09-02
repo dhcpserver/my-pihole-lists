@@ -344,3 +344,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 400,1,209-141-53-49.v6.tlsfingerprint.io,1,1630374288,1630375219,"DNS attack probe"
 401,1,public1.114dns.com,1,1630374291,1630375221,"DNS attack probe"
 402,1,www.dnssec-tools.org,1,1630374291,1630375233,"DNS attack probe"
+404,0,pomf.lain.la,1,1630565580,1630565580,Reddit
