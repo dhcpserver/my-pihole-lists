@@ -345,3 +345,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 401,1,public1.114dns.com,1,1630374291,1630375221,"DNS attack probe"
 402,1,www.dnssec-tools.org,1,1630374291,1630375233,"DNS attack probe"
 404,0,pomf.lain.la,1,1630565580,1630565580,Reddit
+405,1,whoami.akamai.net,1,1631225071,1631225071,"From anycast probes"
