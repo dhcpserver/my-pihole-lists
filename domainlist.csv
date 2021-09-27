@@ -310,7 +310,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 364,1,cooper.logs.roku.com,1,1629169910,1629169910,Roku
 365,0,netrope.com,1,1629408607,1629903182,""
 366,1,sl,1,1629507158,1629507158,"Amplicaiton probe"
-368,1,version.bind,1,1629507208,1629507208,"Amplication probe"
+368,1,version.bind,1,1629507208,1632719878,Attack
 370,2,(\.|^)netrope\.com$,1,1629903196,1629903196,""
 371,0,dougca.com,1,1629915179,1629915179,test
 372,1,a.botnet.cc,1,1629919654,1629919654,Probe?
@@ -347,3 +347,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 404,0,pomf.lain.la,1,1630565580,1630565580,Reddit
 405,1,whoami.akamai.net,1,1631225071,1631225071,"From anycast probes"
 406,2,(\.|^)vistaprint\.com$,1,1631644721,1631644721,Eileen
+408,1,id.server,1,1632719903,1632719903,Attack
+409,1,hostname.bind,1,1632719917,1632719917,Attack
