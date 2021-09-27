@@ -349,3 +349,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 406,2,(\.|^)vistaprint\.com$,1,1631644721,1631644721,Eileen
 408,1,id.server,1,1632719903,1632719903,Attack
 409,1,hostname.bind,1,1632719917,1632719917,Attack
+410,2,(\.|^)myuhc\.com$,1,1632781302,1632781302,"United Healthcare"
