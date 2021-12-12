@@ -350,3 +350,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 408,1,id.server,1,1632719903,1632719903,Attack
 409,1,hostname.bind,1,1632719917,1632719917,Attack
 410,2,(\.|^)myuhc\.com$,1,1632781302,1632781302,"United Healthcare"
+411,0,trk.klclick2.com,1,1639352715,1639352715,"Unsubscribe link"
