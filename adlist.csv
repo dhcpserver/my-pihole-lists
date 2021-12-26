@@ -1,5 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
 1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,0,1620704432,1629238590,"Migrated from /etc/pihole/adlists.list",1628697527,87069,0,2
-14,https://dbl.oisd.nl/,1,1626825401,1636041969,https://oisd.nl/downloads,1640294640,992628,0,1
-17,https://gist.githubusercontent.com/sidward35/cea28bedd0ec0b1bceec8c2b22c163c4/raw/f165b0752168f3c9c9c8328256b0f834662e4614/hosts,1,1629158261,1629158261,"Roku blocks",1640294640,62,0,1
+14,https://dbl.oisd.nl/,1,1626825401,1636041969,https://oisd.nl/downloads,1640519703,1006857,0,1
+17,https://gist.githubusercontent.com/sidward35/cea28bedd0ec0b1bceec8c2b22c163c4/raw/f165b0752168f3c9c9c8328256b0f834662e4614/hosts,1,1629158261,1629158261,"Roku blocks",1640294640,62,0,2
 18,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt,0,1629158611,1638902546,"SmartTV Block List",1635995714,221,0,2
